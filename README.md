@@ -1,6 +1,6 @@
-# consultadecep
+# Consulta de CEP
 
-consulta de cep simples
+Consulta de cep- Atividade 5 (N2)
 
 ## Getting Started
 
